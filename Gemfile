@@ -16,12 +16,11 @@ gem 'sinatra-param', '~> 1.4'
 
 gem 'yajl-ruby', '~> 1.3.1'
 
-gem 'activemodel', '~> 4.2.8'
+gem 'activemodel'
 
-gem 'mongoid', '~> 5.0.0'
-gem 'bson', '~> 3.1'
+gem 'mongoid'
+gem 'bson'
 gem 'bson_ext'
-gem 'protected_attributes'
 
 gem 'delayed_job'
 gem 'delayed_job_mongoid'
